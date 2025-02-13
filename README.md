@@ -12,4 +12,4 @@ This project automates the configuration of Ubiquiti LiteBeam devices using Ansi
 ## Technologies Used
 - **Ansible** – For automation and configuration management.
 - **SSH** – To securely connect and execute remote commands.
-- **Linux Scripting** – For processing and modifying configuration files.
+- **Scripting** – For processing and modifying configuration files.
